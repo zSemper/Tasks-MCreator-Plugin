@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "return",
+      "check": "ActionResultType"
+    }
+  ],
+  "inputsInline": false,
+  "previousStatement": null,
+  "colour": "#80a55b",
+  "mcreator": {
+    "toolbox_id": "tasks_create",
+    "inputs": [
+      {
+        "name": "return"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+(
+    (Supplier<Boolean>) () -> {
+        ${statement$code}
+    }
+)

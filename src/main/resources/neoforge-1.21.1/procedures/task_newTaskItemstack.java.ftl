@@ -1,0 +1,5 @@
+(
+    (Supplier<ItemStack>) () -> {
+        ${statement$code}
+    }
+)

@@ -1,0 +1,5 @@
+(
+    (Runnable) () -> {
+        ${statement$code}
+    }
+)

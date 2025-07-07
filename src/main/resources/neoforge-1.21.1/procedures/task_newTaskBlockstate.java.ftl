@@ -1,0 +1,5 @@
+(
+    (Supplier<BlockState>) () -> {
+        ${statement$code}
+    }
+)

@@ -1,0 +1,32 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "task",
+      "check": "String"
+    },
+    {
+      "type": "input_dummy",
+      "name": "var"
+    }
+  ],
+  "extensions": [
+    "task_variables"
+  ],
+  "mutator": "variable_entity_input",
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "#5b80a5",
+  "mcreator": {
+    "toolbox_id": "tasks_utils",
+    "toolbox_init": [
+      "<value name=\"task\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+    "inputs": [
+      "task"
+    ],
+    "fields": [
+      "VAR"
+    ]
+  }
+}

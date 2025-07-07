@@ -1,0 +1,5 @@
+(
+    (Supplier<Entity>) () -> {
+        ${statement$code}
+    }
+)

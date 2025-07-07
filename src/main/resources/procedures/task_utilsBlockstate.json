@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "type",
+      "check": "MCItemBlock"
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": "#a5a55b",
+  "mcreator": {
+    "toolbox_id": "tasks_utils",
+    "toolbox_init": [
+      "<value name=\"type\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>"
+    ],
+    "inputs": [
+      "type"
+    ]
+  }
+}

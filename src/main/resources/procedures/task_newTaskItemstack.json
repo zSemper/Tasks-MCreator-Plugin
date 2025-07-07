@@ -1,0 +1,22 @@
+{
+  "args0": [
+    {
+      "type": "input_statement",
+      "name": "code"
+    },
+    {
+      "type": "input_dummy"
+    }
+  ],
+  "inputsInline": true,
+  "output": "TaskReturn",
+  "colour": "#a55b67",
+  "mcreator": {
+    "toolbox_id": "tasks_create",
+    "statements": [
+      {
+        "name": "code"
+      }
+    ]
+  }
+}

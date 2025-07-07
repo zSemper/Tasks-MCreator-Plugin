@@ -1,0 +1,5 @@
+(
+    (Supplier<Double>) () -> {
+        ${statement$code}
+    }
+)

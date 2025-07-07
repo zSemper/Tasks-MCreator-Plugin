@@ -1,0 +1,33 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "return"
+    },
+    {
+      "type": "field_input",
+      "name": "type",
+      "text": "Object"
+    },
+    {
+      "type": "field_Input",
+      "name": "default",
+      "text": "null"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "colour": "#675ba5",
+  "mcreator": {
+    "toolbox_id": "tasks_create",
+    "inputs": [
+      {
+        "name": "return"
+      }
+    ],
+    "fields": [
+      "type",
+      "default"
+    ]
+  }
+}

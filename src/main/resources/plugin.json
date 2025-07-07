@@ -1,0 +1,13 @@
+{
+  "id": "tasks",
+  "supportedversions": [
+    2024004
+  ],
+  "weight": 0,
+  "info": {
+    "name": "Tasks",
+    "version": "1.0",
+    "description": "Creating sets of tasks that can be executed later",
+    "author": "zSemper"
+  }
+}

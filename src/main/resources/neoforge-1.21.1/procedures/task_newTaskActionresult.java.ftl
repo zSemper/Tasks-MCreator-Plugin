@@ -1,0 +1,5 @@
+(
+    (Supplier<InteractionResult>) () -> {
+        ${statement$code}
+    }
+)

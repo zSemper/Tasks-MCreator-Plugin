@@ -1,0 +1,3 @@
+(
+    new ItemStack(${input$type})
+)

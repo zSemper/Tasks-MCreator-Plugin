@@ -1,0 +1,5 @@
+(
+    (Supplier<Direction>) () -> {
+        ${statement$code}
+    }
+)
